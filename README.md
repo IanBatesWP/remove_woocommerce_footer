@@ -1,0 +1,1 @@
+# remove_woocommerce_footer
