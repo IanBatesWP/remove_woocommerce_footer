@@ -16,8 +16,11 @@ function custom_remove_footer_credit () {
 function custom_storefront_credit() {
 	?>
 	<div class="site-info">
-		&copy; <?php echo get_bloginfo( 'name' ) . ' ' . get_the_date( 'Y' ); ?>
-	</div><!-- .site-info -->
+		<!-- &copy; gives us the (c) copyright sign -->
+		<!-- You can use php code to pull your site name with this: <?php echo get_bloginfo( 'name' ) ?> -->
+		<!-- Instead, I will just hard code my footer with HTML -->
+		<p> &copy; IanBateswp.com. </p>
+	</div>
 	<?php
 }
 
