@@ -1,5 +1,8 @@
 # remove_woocommerce_footer
 
+
+[From mjepson on WordPress.org](https://wordpress.org/support/topic/how-to-remove-remove-designed-by-woothemes-from-footer/?replies=51)
+
 ```php
 <?php
 
