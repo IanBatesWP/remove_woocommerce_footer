@@ -1,7 +1,12 @@
 # Edit WooCommerce Footer
 
-
 [From mjepson on WordPress.org](https://wordpress.org/support/topic/how-to-remove-remove-designed-by-woothemes-from-footer/?replies=51)
+
+# image view: 
+![alt text](http://i.imgur.com/KSA02Z3.png "Code should appear here.")
+
+
+# Markdown version
 
 ```php
 <?php
